@@ -1,0 +1,39 @@
+.heading{
+    font-size:25px;
+    width: 100%;
+    margin:0px;
+    box-shadow: 5px 5px 5px grey;
+}
+.heading_1{
+    border-radius: 20px;
+    padding:10px;
+    box-shadow: 5px 5px 5px grey;
+    font-size:20px;
+}
+.heading_2{
+    border-radius: 20px;
+    padding:10px;
+    box-shadow: 5px 5px 5px grey;
+    font-size:15px;
+}
+#dev{
+font-size:35px;
+width: 100%;
+position:fixed;
+bottom: 0px;
+}
+.god1{
+    background-color: darkgreen;
+}
+.god2{
+    background-color: magenta;
+}
+.god3{
+    background-color: rgb(11, 184, 184);
+}
+.god4{
+    background-color: chartreuse;
+}
+.god5{
+    background-color: rgb(12, 75, 72);
+}
